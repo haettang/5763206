@@ -21,6 +21,6 @@ int main() {
         }
     }
 
-    printf(" 0부터 100까지의 소수의 합은 %d입니다.\n", sum);
+    printf("0부터 100까지의 소수의 합은 %d입니다.\n", sum);
     return 0;
 }
